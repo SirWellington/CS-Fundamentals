@@ -30,3 +30,4 @@ nb-configuration.xml
 .idea/
 alchemy-test.iml
 target/
+lib/
