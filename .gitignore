@@ -23,5 +23,10 @@
 hs_err_pid*
 
 
-# IntelliJ
-.idea
+# IDEs
+nbactions.xml
+nb-configuration.xml
+/nbproject/
+.idea/
+alchemy-test.iml
+target/
